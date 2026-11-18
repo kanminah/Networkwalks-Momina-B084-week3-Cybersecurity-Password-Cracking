@@ -45,19 +45,21 @@ During Week 3 of the cybersecurity internship, I audited and recovered passwords
 
 
 * **Proof of Execution — Hash Extraction & Johnny Configuration:**
-![Hash Extraction](assets/hash.jpg)
+![Hash Extraction](hash.jpg)
 
 > Configuring John the Ripper path in Johnny GUI:
-![Johnny Setup](assets/johny.jpg)
+![Johnny Setup](johny.jpg)
 
 > Successful password recovery (`password1`) inside Johnny GUI:
-![Johnny Cracking Result](assets/hashinjohny.jpg)
+![Johnny Cracking Result](hashinjohny.jpg)
 
 
 * **Proof of Execution — Unlocked PDFs & Captured Flags:**
 > Flag 1 captured after unlocking `My Locked PDF1.pdf`:
-![Flag 1](assets/flag1.jpg)
-![Flag 2](assets/flag2.jpg)
+![Flag 1](flag1.jpg)
+
+> Flag 2 captured after unlocking `My Locked PDF2.pdf`:
+![Flag 2](flag2.jpg)
 
 ---
 
@@ -81,16 +83,16 @@ During Week 3 of the cybersecurity internship, I audited and recovered passwords
 
 * **Proof of Execution — Networkwalks Tools & Captured Flag:**
 > Hash Calculator interface:
-![Hash Calculator](assets/hashcalculator.jpg)
+![Hash Calculator](hashcalculator.jpg)
 
-> PDF Hash Extractor output showing the extracted `$pdf$` hash:
-![PDF Hash Extractor](assets/pdfhashextractor.jpg)
+> PDF Hash Extractor:
+![PDF Hash Extractor](pdfhashextractor.jpg)
 
 > Dictionary attack progress matching `password1` successfully:
-![Password Cracker Tool](assets/passwordcracking.jpg)
+![Password Cracker Tool](passwordcracking.jpg)
 
 > Final captured flag from NW Tools Lab:
-![Flag 1 PM2](assets/flag1pm2.jpg)
+![Flag 1 PM2](/flag1pm2.jpg)
 
 ---
 
